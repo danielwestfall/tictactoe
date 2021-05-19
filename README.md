@@ -1,5 +1,5 @@
 # Project Name
-> [ATM Refactoring Project - Click here to view!](https://danielwestfall.github.io/atmProject/atm.html)
+> [TicTacToe Project - Click here to view!](https://danielwestfall.github.io/tictactoe/tictactoe.html)
 
 ## Table of contents
 ---
@@ -26,12 +26,12 @@ We were instructed to refactor the code and add our own improvements. I started 
 
 ## Links
 ---
-* [Open the Project](https://danielwestfall.github.io/atmProject/atm.html)
-* [View it on GitHub](https://github.com/danielwestfall/atmProject)
+* [Open the Project](https://danielwestfall.github.io/tictactoe/tictactoe.html)
+* [View it on GitHub](https://danielwestfall.github.io/tictactoe/)
 
 ## Screenshots
 ---
-![Example screenshot](atm.png)
+![Example screenshot](tictactoe.png)
 
 ## Technologies
 ---
@@ -42,24 +42,29 @@ We were instructed to refactor the code and add our own improvements. I started 
 
 ## Setup
 ---
-Feel free to [check out the project here!](https://danielwestfall.github.io/atmProject/atm.html). This is a production build, I will add the raw code in a different repo later.
+Feel free to [check out the project here!](https://danielwestfall.github.io/tictactoe/tictactoe.html).
 
 
 ## Features
 ---
 List of features ready:
-* Working ATM simulation app that has form validation to prevent withdrawal of more than is in the account balance.
+* Working TicTacToe game with cute cats!
 
 
 To-do list:
-* Add features/improvements in the future
+* 	Add a feature to count win-loss-draw & reset option
+*	  Add tournament mode - best of _ or first to _
+*	  Add a reset board button that happens when victory is impossible
+*	  Add notification of a draw
+*	  Add a visual representation of the winning set
+
 
 
 ## Status
 ---
 Project is: _in progress_
 
-Project was class assignment to refactor the code from the ATM assignment. 
+Project was class assignment to refactor the code from the TicTacToe game assignment.
 
 ## Inspiration
 ---
