@@ -70,6 +70,8 @@ Project was class assignment to refactor the code from the TicTacToe game assign
 ---
 Project created by MIT xPro Full Stack Web Development Course. Completed and modified by Daniel Westfall.
 
+The cute cats are from [here](https://publicdomainvectors.org/en/free-clipart/Cute-kittens-vector-drawing/15553.html)
+
 ## Contact
 ---
 [Daniel Westfall](mailto:DWWestfall@Protonmail.com).  Check out [my Portfolio](https://danielwestfall.github.io/ "my Portfolio")
