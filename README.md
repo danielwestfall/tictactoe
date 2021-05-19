@@ -1,5 +1,5 @@
 # Project Name
-> [TicTacToe Project - Click here to view!](https://danielwestfall.github.io/tictactoe/tictactoe.html)
+> [TicTacToe Project - Click here to view!](https://danielwestfall.github.io/tictactoe/tictactoe.html) 
 
 ## Table of contents
 ---
