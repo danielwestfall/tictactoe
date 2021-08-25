@@ -1,71 +1,71 @@
 :root {
-  --bkgrnd: #21094e;
-  --boarderlines: #511281;
-  --boardbkgrnd: #4ca1a3;
-  --highlights: #a5e1ad;
+	--bkgrnd: #21094e;
+	--boarderlines: #511281;
+	--boardbkgrnd: #4ca1a3;
+	--highlights: #a5e1ad;
 }
 
 body {
-  background-color: var(--bkgrnd);
+	background-color: var(--bkgrnd);
 }
 
 h1 {
-  color: var(--highlights);
-  text-align: center;
-  font-family: "Coiny", cursive;
-  font-size: 4em;
-  padding: 0px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+	color: var(--highlights);
+	text-align: center;
+	font-family: "Coiny", cursive;
+	font-size: 4em;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 h2 {
-  color: var(--highlights);
-  text-align: center;
-  font-family: "Coiny", cursive;
-  font-size: 2em;
-  padding: 0px;
-  margin-top: 0px;
-  margin-bottom: 0px;
+	color: var(--highlights);
+	text-align: center;
+	font-family: "Coiny", cursive;
+	font-size: 2em;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 
 button {
-  background-color: var(--boardbkgrnd);
-  border: 6px solid var(--boarderlines);
+	background-color: var(--boardbkgrnd);
+	border: 6px solid var(--boarderlines);
 }
 
 .game-board {
-  width: 600px;
-  height: 600px;
-  margin: 0 auto;
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
-  grid-template-columns: 1fr;
+	width: 600px;
+	height: 600px;
+	margin: 0 auto;
+	display: grid;
+	grid-template-rows: 1fr 1fr 1fr;
+	grid-template-columns: 1fr;
 }
 
 .grid-row {
-  display: grid;
-  grid-template-rows: 1fr;
-  grid-template-columns: 1fr 1fr 1fr;
+	display: grid;
+	grid-template-rows: 1fr;
+	grid-template-columns: 1fr 1fr 1fr;
 }
 
 img {
-  width: 75px;
+	width: 75px;
 }
 
 .resetbutton {
-  border: 2px solid var(--boarderlines);
-  border-radius: 5px;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -o-border-radius: 5px;
-  width: 250px;
-  background-color: var(--boardbkgrnd);
-  color: var(--boarderlines);
-  padding: 15px 32px;
-  text-align: center;
-  display: inline-block;
-  font-size: 1.5em;
-  font-family: "Coiny", cursive;
+	border: 2px solid var(--boarderlines);
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	width: 250px;
+	background-color: var(--boardbkgrnd);
+	color: var(--boarderlines);
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 1.5em;
+	font-family: "Coiny", cursive;
 }

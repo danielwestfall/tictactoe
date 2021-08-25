@@ -22,8 +22,6 @@ This project was designed to teach us the following about React:
 * Practice communicating project specifications 
 * Practice communicating technical decisions you made
 
-We were instructed to refactor the code and add our own improvements. I started fresh from a create react app and used some code from the previous assignment, but mostly restructured it, created the UI, and tried to simulate a real ATM. 
-
 ## Links
 ---
 * [Open the Project](https://danielwestfall.github.io/tictactoe/tictactoe.html)
