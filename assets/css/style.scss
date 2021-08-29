@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css);
 
 body {
 	background-color: #e0e1DD;
@@ -101,4 +102,9 @@ header ul{
     -moz-border-radius: 15px;
     -ms-border-radius: 15px;
     -o-border-radius: 15px;
+}
+
+#banner .button:hover {
+    background: #1B263B;
+    background-color: #778DA9;
 }
