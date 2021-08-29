@@ -70,3 +70,35 @@ a {
 header ul{
         visibility: hidden;
 }
+
+#banner .fork {
+    position: fixed;
+    left: 50%;
+    margin-left: -325px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+    background-color: #FFE788;
+}
+
+#banner .button {
+    border: 1px solid #0D1B2A;
+    background: #1B263B;
+    border-radius: 15px;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255,0.4),0px 1px 1px rgba(0,0,0,0.1);
+    background-color: #1B263B;
+    margin-left: 5px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height: 14px;
+    font-size: 14px;
+    color: #e0e1DD;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
