@@ -15,12 +15,10 @@
 
 ## General info
 ---
-This project was designed to teach us the following about React:
-* Implement user-friendly UI and React components
-* Manage state of various UI elements
-* Validate form content in conjunction with state of other components
-* Practice communicating project specifications 
-* Practice communicating technical decisions you made
+What I learned from this project:
+* Implementation of user-friendly UI and React components
+* State management of various UI elements
+
 
 ## Links
 ---
@@ -36,7 +34,7 @@ This project was designed to teach us the following about React:
 * HTML
 * CSS
 * JavaScript
-* React
+* ReactJS
 
 ## Setup
 ---
@@ -52,7 +50,7 @@ List of features ready:
 To-do list:
 * 	Add a feature to count win-loss-draw & reset option
 *	  Add tournament mode - best of _ or first to _
-*	  Add a reset board button that happens when victory is impossible
+*	  Add a reset board button that happens on a draw
 *	  Add notification of a draw
 *	  Add a visual representation of the winning set
 
