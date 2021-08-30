@@ -46,6 +46,8 @@ const Board = () => {
 			<div id='info'>
 				<h2 id='turn'>{`Next Player: Player ${XorO}`}</h2>
 				<h2>{status}</h2>
+				{/* TODO: Add reset button and after winner declaration freeze game */}
+				
 			</div>
 		</div>
 	);
